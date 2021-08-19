@@ -1,8 +1,8 @@
 {
-  "name": "student-extensions-pack",
-  "displayName": "Student Pack",
+  "name": "studentpack",
+  "displayName": "studentpack",
   "description": "A pack of extensions to study a new programming language.",
-  "publisher": "mayanna-oliveira",
+  "publisher": "StudentPack",
   "author": {
     "name": "mayanna-oliveira"
   },
