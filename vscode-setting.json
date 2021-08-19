@@ -1,0 +1,60 @@
+{
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "tabnine.experimentalAutoImports": true,
+  "workbench.editorAssociations": {
+      "*.ipynb": "jupyter-notebook"
+  },
+  "ponicode.token": "[USER_TOKEN]",
+  "webview.experimental.useExternalEndpoint": true,
+  "sourcery.token": "[USER_TOKEN]",
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.mouseWheelZoom": true,
+  "editor.minimap.enabled": false,
+  "files.autoSave": "afterDelay",
+  "workbench.iconTheme": "helium-icon-theme",
+  "window.openFilesInNewWindow": "default",
+  "editor.tabSize": 2,
+  "workbench.editor.enablePreview": false,
+  "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.autoClosingBrackets": "always"
+  },
+  "editor.fontWeight": 400,
+  "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.autoClosingBrackets": "always"
+  },
+  "[scss]": {
+      "editor.defaultFormatter": "HookyQR.beautify",
+      "editor.autoClosingBrackets": "always"
+  },
+  "editor.wordWrap": "on",
+  "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.autoClosingBrackets": "always"
+  },
+  "ShortcutMenuBar.formatWith": true,
+  "ShortcutMenuBar.indentLines": true,
+  "ShortcutMenuBar.saveAll": true,
+  "ShortcutMenuBar.showCommands": true,
+  "ShortcutMenuBar.toggleActivityBar": true,
+  "ShortcutMenuBar.openFilesList": false,
+  "GitLive.Issue tracker integration": "Enabled",
+  "kite.showWelcomeNotificationOnStartup": false,
+  "workbench.colorTheme": "Plastic",
+  "editor.codeLensFontFamily": "Jetbrains Mono",
+  "editor.fontFamily": "Jetbrains Mono",
+  "editor.inlayHints.fontFamily": "Jetbrains Mono",
+  "scm.inputFontFamily": "Jetbrains Mono",
+  "debug.console.fontFamily": "Jetbrains Mono",
+  "terminal.integrated.fontFamily": "Jetbrains Mono",
+  "window.zoomLevel": -2,
+  "terminal.integrated.fontSize": 15,
+  "bracket-pair-colorizer-2.showBracketsInRuler": true,
+  "bracket-pair-colorizer-2.showBracketsInGutter": true,
+  "editor.autoClosingBrackets": "always",
+  "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
