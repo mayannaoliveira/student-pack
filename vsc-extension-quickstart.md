@@ -4,6 +4,7 @@
 2. Extensions > click in ... > install VSIX.
 3. Select .vsix file to install it.
 * The other way to install it is looking in marketplace.
+
 # README - Student Extensions Pack 
 
 * I did this extension pack just to help students learn a new programming language. Pack is focus in Django, Angular, Database, Docker and Bootstrap. 
