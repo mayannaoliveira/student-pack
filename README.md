@@ -9,7 +9,7 @@ I'm a big fan of Visual Studio Code so I have been savings a list of my favorit
 **Themes:**
 
 - [Dracula ](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) Manual Installation: `ext install dracula-theme.theme-dracula` 
-- [Nord]([arcticicestudio.nord-visual-studio-code](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)) Manual Installation: `ext install arcticicestudio.nord-visual-studio-code` 
+- [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)) Manual Installation: `ext install arcticicestudio.nord-visual-studio-code` 
 - [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) Manual Installation: `ext install emmanuelbeziat.vscode-great-icons` 
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) Manual Installation: `ext install zhuangtongfa.Material-theme` 
 - [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme) Manual Installation: `ext install BeardedBear.beardedtheme` 
@@ -157,6 +157,7 @@ Icon created by Yanti from [Noun Project](https://thenounproject.com/search/?q=p
 
 
 **Best Regards!**
+
 **[Mayanna Oliveira]**
 
 [Mayanna Oliveira]: https://beacons.ai/mayannaoliveira
