@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/mayannaoliveira/student-pack/issues"
   },
-  "version": "07.09.2021",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.59.0"
   },

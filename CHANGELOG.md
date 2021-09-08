@@ -2,7 +2,7 @@
 All notable changes to this extension will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-- [09/07/2021] I removed some of the extensions in version 0.0.1 (18/08/2021) so now on version 07.09.2021 just has the collection listed in Readme file.
+- [09/07/2021] I removed some of the extensions in version 0.0.1 (18/08/2021) so now on version 0.0.2 (09/07/2021) just has the collection listed in Readme file.
 
 ### Updated
 - [09/07/2021] The package.json was updated and some new information was added.
