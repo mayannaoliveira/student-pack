@@ -86,11 +86,11 @@ I'm a big fan of Visual Studio Code so I have been savings a list of my favorit
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) Manual Installation: `ext install ms-vscode.vscode-typescript-tslint-plugin` 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) Manual Installation: `ext install dbaeumer.vscode-eslint`
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) Manual Installation: `ext install formulahendry.code-runner`
-- [Kite AutoComplete AI](https://marketplace.visualstudio.com/items?itemName=kiteco.kite) Manual Installation: ext install kiteco.kite
+- [Kite AutoComplete AI](https://marketplace.visualstudio.com/items?itemName=kiteco.kite) Manual Installation: `ext install kiteco.kite`
 - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) Manual Installation: `ext install TabNine.tabnine-vscode`
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) Manual Installation: `ext install formulahendry.auto-rename-tag`
-- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) Manual Installation: ext install formulahendry.auto-close-tag
-- [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag) Manual Installation: ext install formulahendry.auto-complete-tag
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) Manual Installation: `ext install formulahendry.auto-close-tag`
+- [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag) Manual Installation: `ext install formulahendry.auto-complete-tag`
 - [Close HTML/XML tag](https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag) Manual Installation: `ext install Compulim.compulim-vscode-closetag`
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) Manual Installation: `ext install CoenraadS.bracket-pair-colorizer-2`
 - [Bracket Peek](https://marketplace.visualstudio.com/items?itemName=jomeinaster.bracket-peek) Manual Installation: `ext install jomeinaster.bracket-peek`
