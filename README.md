@@ -116,13 +116,13 @@ I'm a big fan of Visual Studio Code so I have been savings a list of my favorit
 - [CSSrem](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem) Manual Installation: `ext install cipchk.cssrem`
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) Manual Installation: `ext install WakaTime.vscode-wakatime` 
 
-<!-- Removed -->
-<!-- - [GitLive](https://marketplace.visualstudio.com/items?itemName=TeamHub.teamhub) -->
+<!-- Removed some extensions -->
+<!-- - [GitLive](https://marketplace.visualstudio.com/items?itemName=TeamHub.teamhub)
 Manual Installation: `ext install TeamHub.teamhub` 
-<!-- - [Ponicode](https://marketplace.visualstudio.com/items?itemName=ponicode.ponicode) -->
+- [Ponicode](https://marketplace.visualstudio.com/items?itemName=ponicode.ponicode)
 Manual Installation: `ext install ponicode.ponicode` 
-<!-- - [Sourcery](https://marketplace.visualstudio.com/items?itemName=sourcery.sourcery) -->
-Manual Installation: `ext install sourcery.sourcery`
+- [Sourcery](https://marketplace.visualstudio.com/items?itemName=sourcery.sourcery)
+Manual Installation: `ext install sourcery.sourcery` -->
 ## How to install?
 
 1. Select extensions (ctrl+shift+X) or click it in sidebar.
