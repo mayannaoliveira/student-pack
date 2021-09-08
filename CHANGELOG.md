@@ -1,9 +1,278 @@
-# Change Log
+# Changelog
+All notable changes to this extension will be documented in this file.
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-All notable changes to the "student-extensions-pack" extension pack will be documented in this file.
+- [09/07/2021] I removed some of the extensions in version 0.0.1 (18/08/2021) so now on version 07.09.2021 just has the collection listed in Readme file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Updated
+- [09/07/2021] The package.json was updated and some new information was added.
+- [09/07/2021] README.md was updated and sthe list of extensions was updated with link to markteplace and manual installation was added.
+### Removed
+- [09/07/2021] I removed some extensions as: Ponicode, Sourcery, GitLive, Angular Material, Angular 2, CodeSnap, Spaces Inside Braces, Chronicler , Text Manipulator/String Converter and other that marked bellow. Please, don't worry if you extension was removed I tested a lot of extensions so I didn't find one that I don't like. I removed some extensions because I will make another pack with them late.
+- List of extensions from the first version released:
+   - "1tontech.angular-material", **Sorry, I removed it on version 09.07.2021**
+   - "aaron-bond.better-comments",
+   - "abusaidm.html-snippets", **Sorry, I removed it on version 09.07.2021**
+   - "adamwalzer.string-converter", **Sorry, I removed it on version 09.07.2021**
+   - "adpyke.codesnap", **Sorry, I removed it on version 09.07.2021**
+   - "AiryShift.spaces-inside-braces", **Sorry, I removed it on version 09.07.2021**
+   - "alefragnani.Bookmarks",
+   - "alefragnani.project-manager",
+   - "alexiv.vscode-angular2-files", **Sorry, I removed it on version 09.07.2021**
+   - "almenon.arepl", **Sorry, I removed it on version 09.07.2021**
+   - "Angular.ng-template", **Sorry, I removed it on version 09.07.2021**
+   - "anseki.vscode-color",
+   - "antfu.icons-carbon",
+   - "arcsine.chronicler",**Sorry, I removed it on version 09.07.2021**
+   - "Atishay-Jain.All-Autocomplete",
+   - "auchenberg.vscode-browser-preview",**Sorry, I removed it on version 09.07.2021**
+   - "azemoh.one-monokai",**Sorry, I removed it on version 09.07.2021**
+   - "batisteo.vscode-django",
+   - "bibhasdn.django-html",**Sorry, I removed it on version 09.07.2021**
+   - "Cameron.vscode-pytest",**Sorry, I removed it on version 09.07.2021**
+   - "carbonid1.emmet-jss",
+   - "ChakrounAnas.turbo-console-log",
+   - "christian-kohler.npm-intellisense",
+   - "christian-kohler.path-intellisense",
+   - "cipchk.cssrem",
+   - "codemooseus.vscode-devtools-for-chrome",**Sorry, I removed it on version 09.07.2021**
+   - "codezombiech.gitignore",
+   - "CoenraadS.bracket-pair-colorizer-2",
+   - "Compulim.compulim-vscode-closetag",
+   - "cyrilletuzi.angular-schematics", **Sorry, I removed it on version 09.07.2021**
+   - "dahong.theme-bear",
+   - "danwahlin.angular2-snippets", **Sorry, I removed it on version 09.07.2021**
+   - "Dart-Code.dart-code",
+   - "Dart-Code.flutter",
+   - "davidbabel.vscode-simpler-icons",
+   - "dbaeumer.vscode-eslint",
+   - "deerawan.vscode-faker",
+   - "diff001a.kawaii-theme",**Sorry, I removed it on version 09.07.2021**
+   - "doggy8088.angular-extension-pack", **Sorry, I removed it on version 09.07.2021**
+   - "doggy8088.quicktype-refresh",
+   - "donjayamanne.githistory",
+   - "donjayamanne.python-extension-pack",**Sorry, I removed it on version 09.07.2021**
+   - "DotJoshJohnson.xml",
+   - "dracula-theme.theme-dracula",
+   - "dsznajder.es7-react-js-snippets",**Sorry, I removed it on version 09.07.2021**
+   - "eamodio.gitlens",
+   - "ecmel.vscode-html-css",**Sorry, I removed it on version 09.07.2021**
+   - "EditorConfig.EditorConfig",
+   - "eg2.vscode-npm-script",
+   - "emmanuelbeziat.vscode-great-icons",
+   - "enkia.tokyo-night",**Sorry, I removed it on version 09.07.2021**
+   - "esbenp.prettier-vscode",
+   - "ExodiusStudios.comment-anchors",
+   - "FallenMax.mithril-emmet",
+   - "felipecaputo.git-project-manager",
+   - "file-icons.file-icons",**Sorry, I removed it on version 09.07.2021**
+   - "FlorianDuros.theme-dracula-italics-turbo",**Sorry, I removed it on version 09.07.2021**
+   - "formulahendry.auto-close-tag",
+   - "formulahendry.auto-complete-tag",
+   - "formulahendry.auto-rename-tag",
+   - "formulahendry.code-runner",
+   - "gamunu.vscode-yarn",
+   - "ghaschel.vscode-angular-html", **Sorry, I removed it on version 09.07.2021**
+   - "GitHub.copilot",**Sorry, I removed it on version 09.07.2021**
+   - "Gruntfuggly.todo-tree",
+   - "gurayyarar.dummytextgenerator",**Sorry, I removed it on version 09.07.2021**
+   - "hbenl.vscode-test-explorer", **Sorry, I removed it on version 09.07.2021**
+   - "hediet.vscode-drawio", **Sorry, I removed it on version 09.07.2021**
+   - "helgardrichard.helium-icon-theme",
+   - "herrherrmann.angular-bootstrap", **Sorry, I removed it on version 09.07.2021**
+   - "HookyQR.beautify", **Sorry, I removed it on version 09.07.2021**
+   - "HookyQR.minify", **Sorry, I removed it on version 09.07.2021**
+   - "IBM.output-colorizer", **Sorry, I removed it on version 09.07.2021**
+   - "infinity1207.angular2-switcher", **Sorry, I removed it on version 09.07.2021**
+   - "inu1255.easy-snippet", **Sorry, I removed it on version 09.07.2021**
+   - "IronGeek.vscode-env",
+   - "jakethashi.vscode-angular2-emmet", **Sorry, I removed it on version 09.07.2021**
+   - "JakeWilson.vscode-placeholder-images", **Sorry, I removed it on version 09.07.2021**
+   - "jamesmaj.easy-icons", **Sorry, I removed it on version 09.07.2021**
+   - "jdinhlife.gruvbox", **Sorry, I removed it on version 09.07.2021**
+   - "jerrygoyal.shortcut-menu-bar", **Sorry, I removed it on version 09.07.2021**
+   - "john-crowson.angular-file-changer", **Sorry, I removed it on version 09.07.2021**
+   - "johnpapa.Angular2", **Sorry, I removed it on version 09.07.2021**
+   - "johnpapa.vscode-peacock",
+   - "johnpapa.winteriscoming", **Sorry, I removed it on version 09.07.2021**
+   - "jomeinaster.bracket-peek", **Sorry, I removed it on version 09.07.2021**
+   - "jspolancor.presentationmode", **Sorry, I removed it on version 09.07.2021**
+   - "kisstkondoros.vscode-gutter-preview",  **Sorry, I removed it on version 09.07.2021**
+   - "kiteco.kite",
+   - "KnisterPeter.vscode-github",
+   - "krizzdewizz.refactorix", **Sorry, I removed it on version 09.07.2021**
+   - "LaurentTreguier.vscode-simple-icons", **Sorry, I removed it on version 09.07.2021**
+   - "littlefoxteam.vscode-python-test-adapter", **Sorry, I removed it on version 09.07.2021**
+   - "lixquid.calculator",
+   - "loiane.angular-extension-pack", **Sorry, I removed it on version 09.07.2021**
+   - "lostintangent.vsls-whiteboard", **Sorry, I removed it on version 09.07.2021**
+   - "magicstack.MagicPython", **Sorry, I removed it on version 09.07.2021**
+   - "mhutchie.git-graph",
+   - "miguelsolorio.fluent-icons",
+   - "Mikael.Angular-BeastCode", **Sorry, I removed it on version 09.07.2021**
+   - "mohsen1.prettify-json",
+   - "monokai.theme-monokai-pro-vscode", **Sorry, I removed it on version 09.07.2021**
+   - "mrmlnc.vscode-scss", **Sorry, I removed it on version 09.07.2021**
+   - "ms-azuretools.vscode-docker", **Sorry, I removed it on version 09.07.2021**
+   - "MS-CEINTL.vscode-language-pack-pt-BR",
+   - "ms-dynamics-smb.al", **Sorry, I removed it on version 09.07.2021**
+   - "ms-python.python",
+   - "ms-python.vscode-pylance", **Sorry, I removed it on version 09.07.2021**
+   - "ms-toolsai.jupyter",
+   - "ms-vscode-remote.remote-containers",
+   - "ms-vscode.cpptools",
+   - "ms-vscode.test-adapter-converter", **Sorry, I removed it on version 09.07.2021**
+   - "ms-vscode.vscode-typescript-next", **Sorry, I removed it on version 09.07.2021**
+   - "ms-vscode.vscode-typescript-tslint-plugin", **Sorry, I removed it on version 09.07.2021**
+   - "ms-vsliveshare.vsliveshare",
+   - "ms-vsliveshare.vsliveshare-audio", **Sorry, I removed it on version 09.07.2021**
+   - "ms-vsliveshare.vsliveshare-pack", **Sorry, I removed it on version 09.07.2021**
+   - "msjsdiag.debugger-for-chrome", **Sorry, I removed it on version 09.07.2021**
+   - "mtxr.sqltools",
+   - "mtxr.sqltools-driver-mssql",
+   - "mtxr.sqltools-driver-mysql",
+   - "mtxr.sqltools-driver-pg",
+   - "mtxr.sqltools-driver-sqlite",
+   - "naumovs.color-highlight",
+   - "necinc.elmmet", **Sorry, I removed it on version 09.07.2021**
+   - "nhoizey.gremlins", **Sorry, I removed it on version 09.07.2021**
+   - "Nimda.deepdark-material", **Sorry, I removed it on version 09.07.2021**
+   - "obenjiro.arrr", **Sorry, I removed it on version 09.07.2021**
+   - "oderwat.indent-rainbow", **Sorry, I removed it on version 09.07.2021**
+   - "oouo-diogo-perdigao.docthis", **Sorry, I removed it on version 09.07.2021**
+   - "openhab.openhab", **Sorry, I removed it on version 09.07.2021**
+   - "P-de-Jong.vscode-html-scss", **Sorry, I removed it on version 09.07.2021**
+   - "pepri.subtitles-editor", **Sorry, I removed it on version 09.07.2021**
+   - "PKief.material-icon-theme",
+   - "PKief.material-product-icons",
+   - "pmneo.tsimporter", **Sorry, I removed it on version 09.07.2021**
+   - "pnp.polacode",
+   - "Ponicode.ponicode", **Sorry, I removed it on version 09.07.2021**
+   - "pranaygp.vscode-css-peek",
+   - "qcz.text-power-tools", **Sorry, I removed it on version 09.07.2021**
+   - "quicktype.quicktype", **Sorry, I removed it on version 09.07.2021**
+   - "rastikerdar.vscode-seedling-icon-theme", **Sorry, I removed it on version 09.07.2021**
+   - "rbbit.typescript-hero", **Sorry, I removed it on version 09.07.2021**
+   - "rctay.karma-problem-matcher", **Sorry, I removed it on version 09.07.2021**
+   - "royaction.color-manager",
+   - "ryu1kn.annotator", **Sorry, I removed it on version 09.07.2021**
+   - "samrapdev.outrun", **Sorry, I removed it on version 09.07.2021**
+   - "samverschueren.yo", **Sorry, I removed it on version 09.07.2021**
+   - "sdras.night-owl", **Sorry, I removed it on version 09.07.2021**
+   - "segerdekort.angular-cli", **Sorry, I removed it on version 09.07.2021**
+   - "shamanu4.django-intellisense",
+   - "Shan.code-settings-sync",
+   - "SimonTest.simontest", **Sorry, I removed it on version 09.07.2021**
+   - "sldobri.bunker", **Sorry, I removed it on version 09.07.2021**
+   - "sourcery.sourcery", **Sorry, I removed it on version 09.07.2021**
+   - "steoates.autoimport", **Sorry, I removed it on version 09.07.2021**
+   - "stringham.move-ts", **Sorry, I removed it on version 09.07.2021**
+   - "stylelint.vscode-stylelint", **Sorry, I removed it on version 09.07.2021**
+   - "TabNine.tabnine-vscode",
+   - "teabyii.ayu", **Sorry, I removed it on version 09.07.2021**
+   - "TeamHub.teamhub", **Sorry, I removed it on version 09.07.2021**
+   - "thebarkman.vscode-djaneiro",
+   - "titenq.import-font", **Sorry, I removed it on version 09.07.2021**
+   - "tomasvergara.vscode-fontawesome-gallery",
+   - "usernamehw.errorlens", **Sorry, I removed it on version 09.07.2021**
+   - "vincaslt.highlight-matching-tag",
+   - "VisualStudioExptTeam.vscodeintellicode",
+   - "vscode-icons-team.vscode-icons", **Sorry, I removed it on version 09.07.2021**
+   - "waderyan.gitblame", **Sorry, I removed it on version 09.07.2021**
+   - "WallabyJs.quokka-vscode", **Sorry, I removed it on version 09.07.2021**
+   - "wayou.vscode-todo-highlight",
+   - "wholroyd.jinja", **Sorry, I removed it on version 09.07.2021**
+   - "will-stone.plastic", **Sorry, I removed it on version 09.07.2021**
+   - "wraith13.bracket-lens", **Sorry, I removed it on version 09.07.2021**
+   - "xabikos.JavaScriptSnippets", **Sorry, I removed it on version 09.07.2021**
+   - "Zaczero.bootstrap-v4-snippets", **Sorry, I removed it on version 09.07.2021**
+   - "ZaferAYAN.lorem-picsum",
+   - "zhuangtongfa.material-theme",
+   - "ziyasal.vscode-open-in-github" **Sorry, I removed it on version 09.07.2021**
 
-## [Unreleased]
 
-- Initial release
+### Added
+- [09/07/2021] List of new extension: 
+
+   - "alefragnani.Bookmarks",
+   - "alefragnani.project-manager",
+   - "alexzshl.badges-snippets",
+   - "antfu.iconify",
+   - "antfu.icons-carbon",
+   - "arcticicestudio.nord-visual-studio-code",
+   - "Atishay-Jain.All-Autocomplete",
+   - "batisteo.vscode-django",
+   - "BeardedBear.beardedtheme",
+   - "bibhasdn.django-html",
+   - "bierner.markdown-emoji",
+   - "bierner.markdown-preview-github-styles",
+   - "christian-kohler.npm-intellisense",
+   - "christian-kohler.path-intellisense",
+   - "cipchk.cssrem",
+   - "clydedsouza.emoji-badges-vscode",
+   - "dahong.theme-bear",
+   - "Dart-Code.dart-code",
+   - "Dart-Code.flutter",
+   - "deerawan.vscode-faker",
+   - "donjayamanne.githistory",
+   - "dracula-theme.theme-dracula",
+   - "dzannotti.vscode-babel-coloring",
+   - "eamodio.gitlens",
+   - "ecmel.vscode-html-css",
+   - "EditorConfig.EditorConfig",
+   - "eg2.vscode-npm-script",
+   - "emmanuelbeziat.vscode-great-icons",
+   - "ExodiusStudios.comment-anchors",
+   - "gamunu.vscode-yarn",
+   - "GitHub.remotehub",
+   - "GitHub.vscode-pull-request-github",
+   - "golang.go",
+   - "Gruntfuggly.todo-tree",
+   - "helgardrichard.helium-icon-theme",
+   - "idleberg.badgen",
+   - "idleberg.badges",
+   - "jock.svg",
+   - "johnpapa.vscode-peacock",
+   - "kisstkondoros.vscode-gutter-preview",
+   - "kiteco.kite",
+   - "KnisterPeter.vscode-github",
+   - "lixquid.calculator",
+   - "mhutchie.git-graph",
+   - "mikestead.dotenv",
+   - "ms-azuretools.vscode-docker",
+   - "MS-CEINTL.vscode-language-pack-pt-BR",
+   - "ms-dotnettools.csharp",
+   - "ms-python.python",
+   - "ms-python.vscode-pylance",
+   - "ms-toolsai.jupyter",
+   - "ms-toolsai.jupyter-keymap",
+   - "ms-vscode-remote.remote-containers",
+   - "ms-vscode.cpptools",
+   - "ms-vsliveshare.vsliveshare",
+   - "mtxr.sqltools",
+   - "mtxr.sqltools-driver-mysql",
+   - "mtxr.sqltools-driver-pg",
+   - "mtxr.sqltools-driver-sqlite",
+   - "naumovs.color-highlight",
+   - "PKief.material-icon-theme",
+   - "pnp.polacode",
+   - "pranaygp.vscode-css-peek",
+   - "PsykoSoldi3r.vscode-git-flow",
+   - "redhat.vscode-xml",
+   - "redhat.vscode-yaml",
+   - "ritwickdey.LiveServer",
+   - "shamanu4.django-intellisense",
+   - "Shan.code-settings-sync",
+   - "SirTori.indenticator",
+   - "streetsidesoftware.code-spell-checker",
+   - "TabNine.tabnine-vscode",
+   - "thebarkman.vscode-djaneiro",
+   - "TheHolyCoder.badge-viewer",
+   - "tinkertrain.theme-panda",
+   - "tomasvergara.vscode-fontawesome-gallery",
+   - "VisualStudioExptTeam.vscodeintellicode",
+   - "WakaTime.vscode-wakatime",
+   - "yoko0180.vscode-git-quick-commit",
+   - " yzane.markdown-pdf",
+   - "yzhang.markdown-all-in-one",
+   - "zhuangtongfa.material-theme"
