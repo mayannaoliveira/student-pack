@@ -132,7 +132,7 @@ Manual Installation: `ext install sourcery.sourcery` -->
 
 ## What is Student Pack? 
 
-* I did this extension pack just to help students learn a new programming language. Pack is focus in Django, Angular, Database, Docker and Bootstrap. 
+* I did this extension pack just to help students learn a new programming language. Pack is focus in Django, Database, Docker and IT. 
 * Please, check in my [Github](https://github.com/mayannaoliveira/student-pack.git) and settings in vscode-settings.json to have my customizations.
 * Follow me on social media [Mayanna Oliveira].
 * Please, fell free to send me suggestions or keep  in touch by email mayannait@gmail.com.

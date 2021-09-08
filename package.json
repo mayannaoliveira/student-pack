@@ -1,8 +1,8 @@
 {
-  "name": "student-pack",
+  "name": "studentpack",
   "displayName": "Student Pack",
   "description": "A great collection of 82 extensions to help you have an amazing experience during your working.",
-  "publisher": "mayannaoliveira",
+  "publisher": "StudentPack",
   "icon": "icon.png",
   "repository": {
     "type": "git",

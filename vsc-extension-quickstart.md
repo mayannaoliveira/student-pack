@@ -12,13 +12,6 @@
 3. Select .vsix file to install it.
 * The other way to install it is looking in marketplace.
 
-## Student Pack 
-
-* I did this extension pack just to help students learn a new programming language. Pack is focus in Django, Angular, Database, Docker and Bootstrap. 
-* Please, check in my [Github](https://github.com/mayannaoliveira/student-pack.git) and settings in vscode-settings.json to have my customizations.
-* Follow me on social media [Mayanna Oliveira](https://linktr.ee/mayannaoliveira)
-* Please, fell free to send me suggestions or keep  in touch by email mayannait@gmail.com.
-
 #### Steps to make your own extension pack
 
 1. Install some NPM: `npm install -g yo` and `npm install -g yo generator-code`.
