@@ -21,12 +21,12 @@
 
 #### Steps to make your own extension pack
 
-1. Install some NPM: 1.1 npm install -g yo 1.2 npm install -g yo generator-code
-2. Create a folder.
-3. Open terminal and type yo code
-4. Option extension pack.
-5. To generate a vsix to install as extension type vsce package in terminal.
-6. vsce --help to check other options.
+1. Install some NPM: `npm install -g yo` and `npm install -g yo generator-code`.
+2. Create a new folder.
+3. Open terminal and type `yo code`.
+4. Select the option extension pack.
+5. To generate a vsix to install as extension type `vsce package` in terminal.
+6. `vsce --help` to check other options.
 
 #### Icon
 
